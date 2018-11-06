@@ -9,7 +9,7 @@
       "analogRecorders": 2,
       "modulation": "fsk4",
       "driver": "osmosdr",
-      "device": "bladerf=0"
+      "device": "bladerf=0,biastee=rx"
     }
   ],
   "systems": [
