@@ -2,10 +2,11 @@
   "sources": [
     {
       "center": 853000000.0,
-      "rate": 6000000.0,
+      "rate": 15000000.0,
       "error": 0,
-      "digitalRecorders": 5,
-      "analogRecorders": 5,
+      "gain": 0,
+      "digitalRecorders": 2,
+      "analogRecorders": 2,
       "modulation": "fsk4",
       "debugRecorders": 0,
       "driver": "osmosdr",
