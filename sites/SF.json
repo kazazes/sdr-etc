@@ -2,19 +2,19 @@
   "sources": [
     {
       "center": 852000000.0,
-      "rate": 6000000.0,
+      "rate": 12000000.0,
       "error": 0,
       "gain": -60,
-      "digitalRecorders": 4,
-      "analogRecorders": 6,
+      "digitalRecorders": 2,
+      "analogRecorders": 2,
       "modulation": "fsk4",
       "driver": "osmosdr",
-      "device": "bladerf=0,full=-20"
+      "device": "bladerf=0"
     }
   ],
   "systems": [
     {
-      "control_channels": [851425000.0, 851400000],
+      "control_channels": [851425000.0, 851400000.0],
       "type": "smartnet",
       "talkgroupsFile": "SF.csv",
       "shortName": "SFII",
