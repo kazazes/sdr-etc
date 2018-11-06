@@ -15,12 +15,14 @@
   ],
   "systems": [
     {
-      "control_channels": [851425000, 851400000],
+      "control_channels": [851425000.0],
       "type": "smartnet",
       "talkgroupsFile": "SF.csv",
-      "shortName": "SF"
+      "shortName": "SFII"
     }
   ],
+  "defaultMode": "analog",
+  "controlWarnRate": -1,
   "frequencyFormat": "mhz",
   "captureDir": "/home/radio/audio/"
 }
