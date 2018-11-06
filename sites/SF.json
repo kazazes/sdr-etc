@@ -5,7 +5,7 @@
       "rate": 6000000.0,
       "error": 0,
       "gain": 15,
-      "digitalRecorders": 4,
+      "digitalRecorders": 0,
       "analogRecorders": 5,
       "modulation": "fsk4",
       "debugRecorders": 0,
