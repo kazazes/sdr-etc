@@ -23,5 +23,5 @@
     }
   ],
   "frequencyFormat": "mhz",
-  "captureDir": "/var/skyscraper/audio/"
+  "captureDir": "/home/radio/audio/"
 }
