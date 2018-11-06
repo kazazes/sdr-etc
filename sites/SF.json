@@ -19,5 +19,7 @@
       "talkgroupsFile": "SF.csv",
       "shortName": "SF"
     }
-  ]
+  ],
+  "frequencyFormat": "mhz",
+  "captureDir": "/var/skyscraper/audio/"
 }
