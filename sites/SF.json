@@ -10,7 +10,7 @@
       "modulation": "fsk4",
       "debugRecorders": 0,
       "driver": "osmosdr",
-      "device": "bladerf=0,biastee=rx,full=0",
+      "device": "bladerf=0,biastee=rx,full=-20",
       "squelch": -60
     }
   ],
