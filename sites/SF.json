@@ -8,7 +8,6 @@
       "digitalRecorders": 4,
       "analogRecorders": 6,
       "modulation": "fsk4",
-      "debugRecorders": 1,
       "driver": "osmosdr",
       "device": "bladerf=0,full=-20"
     }
