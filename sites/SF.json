@@ -9,7 +9,8 @@
       "analogRecorders": 5,
       "modulation": "fsk4",
       "debugRecorders": 0,
-      "driver": "osmosdr"
+      "driver": "osmosdr",
+      "fskGain": "0.80"
     }
   ],
   "systems": [
