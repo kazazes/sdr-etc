@@ -19,7 +19,6 @@
       "type": "smartnet",
       "talkgroupsFile": "SF.csv",
       "shortName": "SFII",
-      "recordUnknown": false,
       "bandPlan": "800_reband"
     }
   ],
