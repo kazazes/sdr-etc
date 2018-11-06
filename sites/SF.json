@@ -6,7 +6,7 @@
       "error": 0,
       "gain": 14,
       "digitalRecorders": 2,
-      "analogRecorders": 2,
+      "analogRecorders": 8,
       "modulation": "fsk4",
       "driver": "osmosdr",
       "device": "bladerf=0,biastee=rx"
