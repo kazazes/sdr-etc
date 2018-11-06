@@ -2,9 +2,9 @@
   "sources": [
     {
       "center": 852000000.0,
-      "rate": 12000000.0,
+      "rate": 1000000.0,
       "error": 0,
-      "gain": -60,
+      "gain": 14,
       "digitalRecorders": 2,
       "analogRecorders": 2,
       "modulation": "fsk4",
