@@ -2,7 +2,7 @@
   "sources": [
     {
       "center": 852000000.0,
-      "rate": 1000000.0,
+      "rate": 3000000.0,
       "error": 0,
       "gain": 14,
       "digitalRecorders": 2,
