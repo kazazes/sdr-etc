@@ -18,7 +18,8 @@
       "control_channels": [851425000.0, 851400000, 851125000, 851150000],
       "type": "smartnet",
       "talkgroupsFile": "SF.csv",
-      "shortName": "SFII"
+      "shortName": "SFII",
+      "recordUnknown": false
     }
   ],
   "defaultMode": "analog",
