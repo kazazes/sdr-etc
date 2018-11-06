@@ -10,7 +10,8 @@
       "modulation": "fsk4",
       "debugRecorders": 0,
       "driver": "osmosdr",
-      "fskGain": "0.80"
+      "fskGain": "0.80",
+      "device": "bladerf=0,biastee=rx"
     }
   ],
   "systems": [
