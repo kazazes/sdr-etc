@@ -1,15 +1,15 @@
 {
   "sources": [
     {
-      "center": 852000000.0,
-      "rate": 3000000.0,
+      "center": 853000000.0,
+      "rate": 4000000.0,
       "error": 0,
-      "gain": 14,
+      "gain": -40,
       "digitalRecorders": 2,
-      "analogRecorders": 8,
+      "analogRecorders": 3,
       "modulation": "fsk4",
       "driver": "osmosdr",
-      "device": "bladerf=0,biastee=rx"
+      "device": "bladerf=0,full=10"
     }
   ],
   "systems": [
@@ -18,11 +18,10 @@
       "type": "smartnet",
       "talkgroupsFile": "SF.csv",
       "shortName": "SFII",
-      "bandPlan": "800_reband"
-    }
+      "uploadScript": "encode-local-sys-0.sh"
+}
   ],
   "defaultMode": "analog",
-  "controlWarnRate": -1,
   "frequencyFormat": "mhz",
-  "captureDir": "/home/radio/audio/"
+  "captureDir": "/home/radio/src/trunk-player/audio_files"
 }

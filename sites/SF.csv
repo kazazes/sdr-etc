@@ -35,17 +35,6 @@
 13360,3430,A,SFPD MA 1,Mutual Aid 1,Law Tac,Police
 13392,3450,A,SFPD MA 2,Mutual Aid 2,Law Tac,Police
 13424,3470,A,SFPD MA 3,Mutual Aid 3,Law Tac,Police
-13520,34D0,A,EVENT 1,All City Event 1,Interop,CitywideMutual Aid
-13552,34F0,A,EVENT 2,All City Event 2,Interop,CitywideMutual Aid
-13584,3510,A,SAFEVT 1,Public Safety Event 1,Interop,CitywideMutual Aid
-13616,3530,A,SAFEVT 2,Public Safety Event 2,Interop,CitywideMutual Aid
-13648,3550,A,SAFEVT 3,Public Safety Event 3,Interop,CitywideMutual Aid
-13680,3570,A,MAP,Mobile Assistance Patrol,Public Works,Public Service Emergency Radio System
-13712,3590,A,SFPD B3,Tactical B3,Law Talk,Police
-13840,3610,A,ENF EVT 1,Enforcement Event 1,Interop,CitywideMutual Aid
-13872,3630,A,ENF EVT 2,Enforcement Event 2,Interop,CitywideMutual Aid
-13904,3650,A,ENF EVT 3,Enforcement Event 3,Interop,CitywideMutual Aid
-13936,3670,A,ENF EVT 4,Enforcement Event 4,Interop,CitywideMutual Aid
 13968,3690,A,SFPD HSU,Homeland Security Unit,Law Talk,Police
 14064,36F0,A,SFPD MA 4,Mutual Aid 4,Law Tac,Police
 14224,3790,A,SFPD MA 5,Mutual Aid 5,Law Tac,Police
@@ -58,62 +47,9 @@
 14896,3A30,A,SFFD A4,Command A4  Major Incidents,Fire-Talk,Fire
 14928,3A50,A,SFFD A5,Command A5  Division 2,Fire-Talk,Fire
 14960,3A70,A,SFFD A6,Command A6  Division 3,Fire-Talk,Fire
-14992,3A90,A,SFFD A7,Tactical A7  Battalion 7,Fire-Tac,Fire
-15024,3AB0,A,SFFD A8,Tactical A8  Battalion 8,Fire-Tac,Fire
-15056,3AD0,A,SFFD A9,Tactical A9  Battalion 9,Fire-Tac,Fire
-15088,3AF0,A,SFFD A10,Tactical A10  Battalion 10,Fire-Tac,Fire
-15120,3B10,A,SFFD A11,Tactical A11  Battalion 1,Fire-Tac,Fire
-15152,3B30,A,SFFD A12,Tactical A12  Battalion 2,Fire-Tac,Fire
-15184,3B50,A,SFFD A13,Tactical A13  Battalion 3,Fire-Tac,Fire
-15216,3B70,A,SFFD A14,Tactical A14  Battalion 4,Fire-Tac,Fire
-15248,3B90,A,SFFD A15,Tactical A15  Battalion 5 Disbanded,Fire-Tac,Fire
-15280,3BB0,A,SFFD A16,Tactical A16  Battalion 6,Fire-Tac,Fire
-15312,3BD0,A,SFFD EMS3,EMS 3  FDB15  City Ambulances NonEmergency,EMS-Tac,EMS
-15344,3BF0,A,SFFD EMS4,EMS 4  FDB16  Private Ambulances,EMS-Tac,EMS
-15440,3C50,A,SFFD B8,Prevention,Fire-Talk,Fire
-15472,3C70,A,SFFD B9,Auxiliary Water Supply System AWSS,Fire-Talk,Fire
-15504,3C90,A,MEDEXAM,Medical Examiner Coroner,Law Talk,City Government
 15600,3CF0,A,SIRENTG,Outdoor Warning Sirens,Data,City Government
 15760,3D90,A,SFFD B10,Bureau of Equipment BOE,Fire-Talk,Fire
 15792,3DB0,A,SFFD B12,Training,Fire-Talk,Fire
-15856,3DF0,A,SFSD A1 CJ1,County Jail 1,Corrections,Sheriff
-15888,3E10,A,SFSD A2 CJ2,County Jail 2,Corrections,Sheriff
-15920,3E30,A,SFSD A3 CJ3,County Jail 3,Corrections,Sheriff
-15952,3E50,A,SFSD A4 CJ4,County Jail 4,Corrections,Sheriff
-15984,3E70,A,SFSD A5 CJ5,County Jail 5,Corrections,Sheriff
-16016,3E90,A,SFSD A6,Laguna Honda Patrol ,Law Dispatch,Sheriff
-16048,3EB0,A,SFSD A7,Classification UnitSBBS,Corrections,Sheriff
-16080,3ED0,A,SFSD A8,City Hall Patrol Dispatch,Law Dispatch,Sheriff
-16112,3EF0,A,SFSD A9,Juvenile Justice Commission JJC Courts  ,Law Dispatch,Sheriff
-16144,3F10,A,SFSD A10,Courts Dispatch ,Law Dispatch,Sheriff
-16176,3F30,A,SFSD A11,TransportationSWAPSFGH,Law Tac,Sheriff
-16208,3F50,A,SFSD A12,Law Talk  Future,Law Tac,Sheriff
-16240,3F70,A,SFSD A15 TAC,TacticalEmergency Services Unit,Law Tac,Sheriff
-16272,3F90,A,SFSD A16 DSP,Patrol DispatchSF General,Law Dispatch,Sheriff
-16464,4050,A,DPT A1,Dept of Parking  Traffic A1  PCO Dispatch,Law Tac,City Government
-16496,4070,A,DPT A2,Dept of Parking  Traffic A2  PTC Administration  Engineering,Law Tac,City Government
-16528,4090,A,DPT A3,Dept of Parking  Traffic A3  Paint  Traffic Signal Shops,Public Works,City Government
-16560,40B0,A,DPT A4,Dept of Parking  Traffic A4  Parking Meter  Sign Shops,Public Works,City Government
-16592,40D0,A,DPT A5,Dept of Parking  Traffic A5  PTC Special Events,Law Tac,City Government
-16624,40F0,A,DPT A6,Dept of Parking  Traffic A6  Traffic Control Center,Public Works,City Government
-16656,4110,A,SCOFF,Parking Scofflaws also SFPD A15 SCOFFLAW,Law Tac,City Government
-16688,4130,A,TOW,Parking Tow Dispatch also SFPD A16 TOW CH,Law Tac,City Government
-16816,41B0,A,WATER 1,Water Department 1  Administration,Utilities,City Government
-16848,41D0,A,WATER 2,Water Department 2  Operations,Utilities,City Government
-16912,4210,A,REC A1,Recreation  Parks A1  AdminRecMarinaEvents,Public Works,City Government
-16944,4230,A,REC A2,Recreation  Parks A2  Structural Maintenance,Public Works,City Government
-16976,4250,A,REC A3,Recreation  Parks A3  Park Maintenance  Urban Forestry,Public Works,City Government
-17008,4270,A,REC A4,Recreation  Parks A4  Park Patrol,Security,City Government
-17040,4290,A,REC A5,Recreation  Parks A5  Candlestick Park,Public Works,City Government
-17072,42B0,A,Water 3,Water Department 3,Utilities,City Government
-17424,4410,A,OES 1,Office of Emergency Services 1,Emergency Ops,OES  Homeland Security
-17456,4430,A,OES 2,Office of Emergency Services 2,Emergency Ops,OES  Homeland Security
-17488,4450,A,OES ADMIN,Office of Emergency Services  Administration,Emergency Ops,OES  Homeland Security
-17648,44F0,A,DTIS1,Telecomms  Info Services 1,Public Works,City Government
-17680,4510,A,DTIS2,Telecomms  Info Services 2,Public Works,City Government
-17712,4530,A,PUBSAFETY,Telecomms  Info Services 3  Public Safety,Public Works,City Government
-17744,4550,A,TELECOM,Telecomms  Info Services 4  Telecommunications,Public Works,City Government
-17776,4570,A,EMERGENCY2,Telecomms  Info Services 5  Emergency,Public Works,City Government
 17872,45D0,A,SFSU PD 1,Police Dispatch,Law Dispatch,San Francisco State University
 17904,45F0,A,SFSU PD 2,Police Tac,Law Tac,San Francisco State University
 17936,4610,A,SFSU PD 3,Police Parking,Law Tac,San Francisco State University
@@ -135,46 +71,4 @@
 25200,6270,A,SF USD 3,San Francisco Unified School District 3,Schools,Public Service Emergency Radio System
 25232,6290,A,SF USD 4,San Francisco Unified School District 4,Schools,Public Service Emergency Radio System
 25648,6430,A,Animal Contr,Animal Control,Public Works,Public Service Emergency Radio System
-26320,66D0,A,CAO 1,Chief Administrators Office 1 Special,Public Works,Public Service Emergency Radio System
-26352,66F0,A,CAO 2,Chief Administrators Office 2 Operations,Public Works,Public Service Emergency Radio System
-26384,6710,A,CAO 3,Chief Administrators Office 3 Farmers Market,Public Works,Public Service Emergency Radio System
 32432,7EB0,A,DA 1,District Attorney 1,Law Talk,Public Service Emergency Radio System
-48080,BBD0,A,RADIO1,Radio Service 1,Public Works,Public Service Emergency Radio System
-48112,BBF0,A,RADIO2,Radio Service 2,Public Works,Public Service Emergency Radio System
-48336,BCD0,A,Port Admin,Port Authority  Administration,Public Works,Public Service Emergency Radio System
-48400,BD10,A,Port Maint,Port Authority  Maintenance,Public Works,Public Service Emergency Radio System
-48432,BD30,A,WETA,Water Emergency Transportation Authority,Public Works,Public Service Emergency Radio System
-49008,BF70,A,DPHOPS,Public Health 1  Operations,Public Works,Public Service Emergency Radio System
-49040,BF90,A,DPHADM,Public Health 3  Administration,Public Works,Public Service Emergency Radio System
-49072,BFB0,A,SFGHENG,Public Health 2  SFGH Engineering,Law Dispatch,Public Service Emergency Radio System
-49104,BFD0,A,LHHPD,Public Health 4  Laguna Honda Police,Law Dispatch,Public Service Emergency Radio System
-49136,BFF0,A,LHHADMIN,Public Health 5  Laguna Honda Administration,Public Works,Public Service Emergency Radio System
-49200,C030,A,SFGHIP,SF General Hospital  Institutional Police,Law Tac,Sheriff
-49328,C0B0,A,SFFDAWSS,Fire Auxiliary Water Supply System AWSS Data,Data,Public Service Emergency Radio System
-50000,C350,A,Library 1,SF Public Library 1  Security,Security,City Government
-50032,C370,A,Library 2,SF Public Library 2,Public Works,City Government
-50064,C390,A,Library 3,SF Public Library 3,Public Works,City Government
-61808,F170,A,Motive Power,Motive Power Electrical maintenance,Public Works,City Government
-64656,FC90,A,DPW23 RE1,Real Estate 1,Public Works,Public Service Emergency Radio System
-64688,FCB0,A,DPW22 RE2,Real Estate 2,Public Works,Public Service Emergency Radio System
-64720,FCD0,A,DPW21 HOJ,Hall of Justice Engineering,Public Works,Public Service Emergency Radio System
-64752,FCF0,A,DPW20 CE2,CE 2,Public Works,Public Service Emergency Radio System
-64784,FD10,A,DPW19 BInsp2,Building Inspectors 2,Public Works,Public Service Emergency Radio System
-64816,FD30,A,DPW18 BInsp1,Building Inspectors 1,Public Works,Public Service Emergency Radio System
-64848,FD50,A,DPW17 RepMt,Buildings Repair and Maintenance,Public Works,Public Service Emergency Radio System
-64880,FD70,A,DPW16 Sewer1,Wastewater Sewer Ops 1,Public Works,Public Service Emergency Radio System
-64912,FD90,A,DPW15 Sewer2,Wastewater Sewer Ops 2,Public Works,Public Service Emergency Radio System
-64944,FDB0,A,DPW14 StSew2,Street and Sewer Repair 2,Public Works,Public Service Emergency Radio System
-64976,FDD0,A,DPW13 Street,Street and Environmental Services 4,Public Works,Public Service Emergency Radio System
-65008,FDF0,A,DPW12 Bldg 2,Building Repair 2,Public Works,Public Service Emergency Radio System
-65040,FE10,A,DPW11 StEv3,Street and Environmental Services 3,Public Works,Public Service Emergency Radio System
-65072,FE30,A,DPW10 Sup 2,Supervisors 2,Public Works,Public Service Emergency Radio System
-65104,FE50,A,DPW 9 Sup 1,Supervisors 1,Public Works,Public Service Emergency Radio System
-65136,FE70,A,DPW 8 EMERG,DPW Emergency,Public Works,Public Service Emergency Radio System
-65168,FE90,A,DPW 7 EngAr,Engineering and Architecture,Public Works,Public Service Emergency Radio System
-65200,FEB0,A,DPW 6 UrbFor,Urban Forestry,Public Works,Public Service Emergency Radio System
-65232,FED0,A,DPW 5 StEv2,Street and Environmental Services 2,Public Works,Public Service Emergency Radio System
-65264,FEF0,A,DPW 4 Bldg 1,Building Repair 1,Public Works,Public Service Emergency Radio System
-65296,FF10,A,DPW 3 StSew1,Street and Sewer Repair 1,Public Works,Public Service Emergency Radio System
-65328,FF30,A,DPW 2 StEv1,Street and Environmental Services 1,Public Works,Public Service Emergency Radio System
-65360,FF50,A,DPW 1 Disp,Dispatch,Public Works,Public Service Emergency Radio System
